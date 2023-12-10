@@ -10,3 +10,4 @@ Modos de operação:
 Parâmetros de Sinal_1 e Sinal_2:
 -Frequência: ajustável de 1 a 255 Hz em passo de 1Hz.
 -Amplitude: ajustável de 0.1 a 2,1mA.
+![tACS](https://github.com/luizquizo/diy_tACS/assets/151285589/28c5dd92-5b19-4453-b453-07891d2b2e3a)
