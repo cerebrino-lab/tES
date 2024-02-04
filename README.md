@@ -3,7 +3,7 @@ Estimulador transcraniano por corrente alternada (tACS)
 
 Configuração dos parâmetros através de conexão serial, futuramente via bluetooth.
 
-Modos de operação:
+Modos de operação:\n
 -Modo normal: onda senoidal (Sinal_1)
 -Modo cruzado: onda senoidal(Sinal_1) modulada na fase positiva por onda senoidal(Sinal_2).
 
