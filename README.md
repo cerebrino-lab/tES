@@ -1,7 +1,7 @@
 # diy_tACS
 Estimulador transcraniano por corrente alternada (tACS)
 
-Configuração dos parâmetros através de conexão serial, futuramente via bluetooth.
+Configuração dos parâmetros através de conexão serial.
 
 Modos de operação:  
 -Modo normal: onda senoidal simples.  
