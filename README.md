@@ -1,9 +1,9 @@
 # diy_tACS
 Estimulador transcraniano por corrente alternada (tACS)
 
-#ATENÇÃO!
-Esse circuito foi publicado para fiz didátidos e não deve ser usado em hipótese alguma.
-#Pode causar danos graves e permanentes, ou até a morte.
+# ATENÇÃO!
+# Esse circuito pode causar danos graves e permanentes ou até a morte.
+O projeto foi publicado apenas para fiz didátidos e não deve ser usado em hipótese alguma.
 Estejam cientes!
 
 Configuração dos parâmetros através de conexão serial.
